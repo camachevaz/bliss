@@ -1,0 +1,84 @@
+###################################################
+# Dragon Fruit Theme by https://jekyll-themes.com #
+# For support, send an email to hello@webjeda.com #
+# All the changes made in _config.yml applies     #
+# after a restart or rebuild of the site          #
+###################################################
+
+title: Bliss Bakery & Coffee
+description: Nuestro objetivo, su satisfacción.
+about: A simple e-commerce Jekyll theme for simple products.
+about-footer: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit, libero a molestie consectetur, sapien elit lacinia mi.
+main-image: /assets/images/dragonfruit-ecommerce-jekyll-theme.png
+url: https://dragonfruit.jekyll-themes.com
+
+# Logo can be adjusted by setting a proper height. If not, please check _includes/nav.html file for manual editing.
+logo: /assets/images/logo.svg
+logo-height: 50
+
+# Social media links
+facebook: https://www.facebook.com/BlissMexicali/
+twitter: https://twitter.com/BlissBakery1
+instagram: https://www.instagram.com/blissbakerycoffee/
+email: hello@email.com
+
+menu:
+  - title: Inicio
+    link: '#page-top'
+    page: /
+
+  - title: Menu
+    link: '/menu'
+    page: /menu/
+
+  - title: Contacto
+    link: '/contacto'
+    page: /contacto/
+
+
+
+
+# Footer
+# For complete customization, go to _includes/footer.html
+
+quick-links:
+  - title: Inicio
+    link: /
+
+  - title: Menú
+    link: /menu/
+
+  - title: Contacto
+    link: /contacto/
+
+
+payment-footer:
+  title: Pagos
+  description: Aceptamos tus pagos en línea con
+  icons: true
+  support-button:
+    link: 
+  documentation-button:
+    link: 
+
+copyright: ' | Mexicali, Baja California. México.'
+
+
+# Analytics
+analytics: UA-92266803-4
+
+# This applies to all products
+currency: '$'
+cart-popup: false #set it to false if you do not want to see the popup showing added product in the cart
+floating-cart: false # shows number of items in the cart in a floating button in phones
+
+
+# Sign up with SnipCart and go to https://app.snipcart.com/dashboard/account/credentials to find your API
+snipcart-api: OGI1NGJiZDktMDM5Ny00MWM0LTg0ZTYtNDQ5M2FmMzQ3MzJhNjM2OTU5MjcxOTA3NDM5MjE3
+
+# Crisp Chat website ID - Signup => https://app.crisp.chat/settings/website/ => Settings => Setup instruction => Copy website ID
+crisp-chat-website-id: b8652974-7163-4c3a-a8aa-7ae46da8d460
+
+
+# Remove the lines below
+buy-button: false
