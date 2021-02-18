@@ -1,7 +1,7 @@
 - id: 1
   title: Pasteles a la carta
   description: Pequeño, mediano, grande.... o del tamaño y sabor que prefieras.
-  image: /assets/images/menu/frio.jpg
+  image: /bliss/assets/images/menu/frio.jpg
   price: Por cotización
   weight: 100
   maximum-quantity: 100
@@ -11,7 +11,7 @@
 - id: 2
   title: Pastel mini 4 pulgadas
   description: Ideal para un antojito. Tamaño personal.
-  image: /assets/images/menu/frio.jpg
+  image: /bliss/assets/images/menu/frio.jpg
   price: 80
   weight: 100
   maximum-quantity: 100
@@ -21,7 +21,7 @@
 - id: 3
   title: Pastel chico 7 pulgadas
   description: Parfecto para un festejo íntimo.
-  image: /assets/images/menu/frio.jpg
+  image: /bliss/assets/images/menu/frio.jpg
   price: 200
   weight: 100
   maximum-quantity: 100
@@ -30,7 +30,7 @@
 - id: 4
   title: Pastel mediano 10 pulgadas
   description: Para celebrar en compañía de tus seres más queridos.
-  image: /assets/images/menu/frio.jpg
+  image: /bliss/assets/images/menu/frio.jpg
   price: 400
   weight: 100
   maximum-quantity: 5
@@ -39,7 +39,7 @@
 - id: 5
   title: Pastel grande doble de 10 pulgadas
   description: Alcanza hasta para 20 personas.
-  image: /assets/images/menu/grande-doble.jpg
+  image: /bliss/assets/images/menu/grande-doble.jpg
   price: 750
   weight: 100
   maximum-quantity: 100
@@ -48,7 +48,7 @@
 - id: 6
   title: Pasteles personalizados
   description: Un detalle único, para recordar cualquier ocasión especial
-  image: /assets/images/menu/personalizado.jpg
+  image: /bliss/assets/images/menu/personalizado.jpg
   price: Por cotización
   weight: 100
   maximum-quantity: 100
@@ -57,7 +57,7 @@
 - id: 7
   title: Besitos de nuez
   description: Media docena
-  image: /assets/images/menu/besitos-nuez.jpg
+  image: /bliss/assets/images/menu/besitos-nuez.jpg
   price: 60
   weight: 200
   maximum-quantity: 100
@@ -66,7 +66,7 @@
 - id: 8
   title: Canela
   description: Docena, con chispa de chocolate
-  image: /assets/images/menu/canela.jpg
+  image: /bliss/assets/images/menu/canela.jpg
   price: 60
   weight: 120
   maximum-quantity: 100
@@ -75,7 +75,7 @@
 - id: 9
   title: Mermelada
   description: Con un toque ducle.  Docena.
-  image: /assets/images/menu/mermelada.jpg
+  image: /bliss/assets/images/menu/mermelada.jpg
   price: 110
   weight: 120
   maximum-quantity: 100
@@ -84,7 +84,7 @@
 - id: 10
   title: Limón
   description: Media docena
-  image: /assets/images/menu/frio.jpg
+  image: /bliss/assets/images/menu/frio.jpg
   price: 50
   weight: 120
   maximum-quantity: 100
