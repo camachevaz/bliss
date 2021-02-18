@@ -8,9 +8,9 @@
 title: Bliss Bakery & Coffee
 description: Nuestro objetivo, su satisfacción.
 about: A simple e-commerce Jekyll theme for simple products.
-about-footer: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin suscipit, libero a molestie consectetur, sapien elit lacinia mi.
-main-image: /assets/images/dragonfruit-ecommerce-jekyll-theme.png
-url: https://camachevaz.github.io/bliss/
+about-footer: Súguenos en nuestras redes sociales.
+main-image: /assets/images/splash-portada.jpg
+url: https://dragonfruit.jekyll-themes.com
 
 # Logo can be adjusted by setting a proper height. If not, please check _includes/nav.html file for manual editing.
 logo: /assets/images/logo.svg
@@ -20,11 +20,11 @@ logo-height: 50
 facebook: https://www.facebook.com/BlissMexicali/
 twitter: https://twitter.com/BlissBakery1
 instagram: https://www.instagram.com/blissbakerycoffee/
-email: hello@email.com
+email: 
 
 menu:
   - title: Inicio
-    link: '#page-top'
+    link: '/'
     page: /
 
   - title: Menu
@@ -53,8 +53,8 @@ quick-links:
 
 
 payment-footer:
-  title: Pagos
-  description: Aceptamos tus pagos en línea con
+  title: Formas de pago
+  description: Aceptamos los siguientes medios de pago
   icons: true
   support-button:
     link: 
@@ -74,10 +74,10 @@ floating-cart: false # shows number of items in the cart in a floating button in
 
 
 # Sign up with SnipCart and go to https://app.snipcart.com/dashboard/account/credentials to find your API
-snipcart-api: OGI1NGJiZDktMDM5Ny00MWM0LTg0ZTYtNDQ5M2FmMzQ3MzJhNjM2OTU5MjcxOTA3NDM5MjE3
+snipcart-api: 
 
 # Crisp Chat website ID - Signup => https://app.crisp.chat/settings/website/ => Settings => Setup instruction => Copy website ID
-crisp-chat-website-id: b8652974-7163-4c3a-a8aa-7ae46da8d460
+crisp-chat-website-id: 
 
 
 # Remove the lines below

@@ -1,4 +1,4 @@
-<header class="{% if page.url == '/' %}bg-primary{% else %}bg-image{% endif %} text-white" {% if page.url != '/' %}style="background-image: url({{page.image}})"{% endif %}>
+<header class="{% if page.url == '/' %}bg-light{% else %}bg-image{% endif %} text-black" {% if page.url != '/' %}style="background-image: url({{page.image}})"{% endif %}>
   <div class="container text-center">
     {% if page.url == '/' %}
     <img class="img-fluid header-image" src="{{site.data.main.main-image}}" alt="{{site.data.main.title}}">
