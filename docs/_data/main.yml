@@ -24,16 +24,16 @@ email:
 
 menu:
   - title: Inicio
-    link: '/'
-    page: /
+    link: '/bliss'
+    page: /bliss
 
   - title: Menu
-    link: '/menu'
-    page: /menu/
+    link: '/bliss/menu'
+    page: /bliss/menu/
 
   - title: Contacto
-    link: '/contacto'
-    page: /contacto/
+    link: '/bliss/contacto'
+    page: /bliss/contacto/
 
 
 
