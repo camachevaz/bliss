@@ -13,7 +13,7 @@ main-image: /assets/images/splash-portada.jpg
 url: https://camachevaz.github.io/bliss/
 
 # Logo can be adjusted by setting a proper height. If not, please check _includes/nav.html file for manual editing.
-logo: /assets/images/logo.svg
+logo: /bliss/assets/images/logo.svg
 logo-height: 50
 
 # Social media links
